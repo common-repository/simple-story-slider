@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Story Slider\n"
+"POT-Creation-Date: 2019-01-28 13:31+0100\n"
+"PO-Revision-Date: 2019-01-28 13:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-story-slider.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: simple-story-slider.php:51
+msgid "Story Sliders"
+msgstr "Story Sliders"
+
+#: simple-story-slider.php:52
+msgid "Story Slider"
+msgstr "Story Slider"
+
+#: simple-story-slider.php:53
+msgid "Créer"
+msgstr "Add new"
+
+#: simple-story-slider.php:54
+msgid "Ajouter un Story Slider"
+msgstr "Add a Story Slider"
+
+#: simple-story-slider.php:55
+msgid "Editer un Story Slider"
+msgstr "Edit a Story Slider"
+
+#: simple-story-slider.php:56
+msgid "Nouveau Story Slider"
+msgstr "New Story Slider"
+
+#: simple-story-slider.php:57
+msgid "Voir le Story Slider"
+msgstr "View Story Slider"
+
+#: simple-story-slider.php:58
+msgid "Rechercher un Story Slider"
+msgstr "Search Slider"
+
+#: simple-story-slider.php:59
+msgid "Aucun Story Slider trouvé"
+msgstr "No Story Slider found"
+
+#: simple-story-slider.php:60
+msgid "Aucun Story Slider dans la corbeille"
+msgstr "No Story Slider in Trash"
+
+#: simple-story-slider.php:61
+msgid "Story Slider (parent) :"
+msgstr "Story Slider (parent):"
+
+#: simple-story-slider.php:135 simple-story-slider.php:140
+msgid "Configuration"
+msgstr "Settings"
+
+#: simple-story-slider.php:151
+msgid "Général"
+msgstr "General"
+
+#: simple-story-slider.php:152
+msgid "Intro"
+msgstr "Intro"
+
+#: simple-story-slider.php:153
+msgid "Contenu"
+msgstr "Contents"
+
+#: simple-story-slider.php:160 simple-story-slider.php:334
+msgid "Couleur du thème"
+msgstr "Theme color"
+
+#: simple-story-slider.php:166
+msgid "Couleur de background (slides)"
+msgstr "Background color (slides)"
+
+#: simple-story-slider.php:172
+msgid "Police de caractères (textes)"
+msgstr "Font family (text)"
+
+#: simple-story-slider.php:175
+msgid "Arial, Helvetica, sans-serif"
+msgstr "Arial, Helvetica, sans-serif"
+
+#: simple-story-slider.php:176
+msgid "Georgia, serif"
+msgstr "Georgia, serif"
+
+#: simple-story-slider.php:177
+msgid "Tahoma, Geneva, sans-serif"
+msgstr "Tahoma, Geneva, sans-serif"
+
+#: simple-story-slider.php:178
+msgid "Times New Roman, Times, serif"
+msgstr "Times New Roman, Times, serif"
+
+#: simple-story-slider.php:179
+msgid "Verdana, Geneva, sans-serif"
+msgstr "Verdana, Geneva, sans-serif"
+
+#: simple-story-slider.php:180 simple-story-slider.php:197
+msgid "Arvo, serif"
+msgstr "Arvo, serif"
+
+#: simple-story-slider.php:181 simple-story-slider.php:198
+msgid "Droid Sans, sans-serif"
+msgstr "Droid Sans, sans-serif"
+
+#: simple-story-slider.php:182 simple-story-slider.php:199
+msgid "Open Sans, sans-serif"
+msgstr "Open Sans, sans-serif"
+
+#: simple-story-slider.php:183 simple-story-slider.php:200
+msgid "Roboto, sans-serif"
+msgstr "Roboto, sans-serif"
+
+#: simple-story-slider.php:184
+msgid "Roboto Slab, serif"
+msgstr "Roboto Slab, serif"
+
+#: simple-story-slider.php:185 simple-story-slider.php:202
+msgid "Lato, sans-serif"
+msgstr "Lato, sans-serif"
+
+#: simple-story-slider.php:186 simple-story-slider.php:203
+msgid "Ubuntu Condensed, sans-serif"
+msgstr "Ubuntu Condensed, sans-serif"
+
+#: simple-story-slider.php:187 simple-story-slider.php:204
+msgid "Inconsolata, cursive"
+msgstr "Inconsolata, cursive"
+
+#: simple-story-slider.php:188 simple-story-slider.php:205
+msgid "Playfair Display, serif"
+msgstr "Playfair Display, serif"
+
+#: simple-story-slider.php:193
+msgid "Police de caractères (titres et légende des sections)"
+msgstr "Font family (titles and sections' caption)"
+
+#: simple-story-slider.php:196
+msgid "Par défaut"
+msgstr "Default"
+
+#: simple-story-slider.php:201
+msgid "Roboto Slab,serif"
+msgstr "Roboto Slab, serif"
+
+#: simple-story-slider.php:206
+msgid "Raleway, sans-serif"
+msgstr "Raleway, sans-serif"
+
+#: simple-story-slider.php:211
+msgid "Taille du texte"
+msgstr "Text size"
+
+#: simple-story-slider.php:214
+msgid "Medium"
+msgstr "Medium"
+
+#: simple-story-slider.php:215
+msgid "Large"
+msgstr "Wide"
+
+#: simple-story-slider.php:216
+msgid "Small"
+msgstr "Small"
+
+#: simple-story-slider.php:221
+msgid "Disposition de l'image"
+msgstr "Image layout"
+
+#: simple-story-slider.php:224 simple-story-slider.php:295
+#: simple-story-slider.php:472
+msgid "Droite"
+msgstr "Right"
+
+#: simple-story-slider.php:225 simple-story-slider.php:294
+#: simple-story-slider.php:471
+msgid "Gauche"
+msgstr "Left"
+
+#: simple-story-slider.php:233
+msgid "Chargement de la page"
+msgstr "Page loading"
+
+#: simple-story-slider.php:236 simple-story-slider.php:461
+msgid "Couleur du titre"
+msgstr "Title color"
+
+#: simple-story-slider.php:242 simple-story-slider.php:261
+msgid "Couleur de fond"
+msgstr "Background color"
+
+#: simple-story-slider.php:249
+msgid "Barre fixe (icônes)"
+msgstr "Icons bar"
+
+#: simple-story-slider.php:252
+msgid "Position de la barre"
+msgstr "Fix bar position"
+
+#: simple-story-slider.php:255
+msgid "Haut"
+msgstr "Top"
+
+#: simple-story-slider.php:256
+msgid "Bas"
+msgstr "Bottom"
+
+#: simple-story-slider.php:267
+msgid "Couleur des icônes"
+msgstr "Icons color"
+
+#: simple-story-slider.php:273
+msgid "Bordure"
+msgstr "Border"
+
+#: simple-story-slider.php:275
+msgid "(couleur du thème)"
+msgstr "(theme color)"
+
+#: simple-story-slider.php:278 simple-story-slider.php:537
+msgid "Non"
+msgstr "No"
+
+#: simple-story-slider.php:279 simple-story-slider.php:536
+msgid "Oui"
+msgstr "Yes"
+
+#: simple-story-slider.php:290 simple-story-slider.php:467
+msgid "Alignement du titre"
+msgstr "Title alignment"
+
+#: simple-story-slider.php:293 simple-story-slider.php:470
+msgid "Centre"
+msgstr "Centre"
+
+#: simple-story-slider.php:300 simple-story-slider.php:321
+#: simple-story-slider.php:324
+msgid "Couleur du texte"
+msgstr "Text colour"
+
+#: simple-story-slider.php:306
+msgid "Couleur des liens"
+msgstr "Links color"
+
+#: simple-story-slider.php:312
+msgid "Couleur des flèches de navigation"
+msgstr "Arrow colors"
+
+#: simple-story-slider.php:318
+msgid "Infos"
+msgstr "Info"
+
+#: simple-story-slider.php:319
+msgid "Contenu de la fenêtre modale"
+msgstr "Modal content"
+
+#: simple-story-slider.php:325 simple-story-slider.php:335
+msgid "Blanc"
+msgstr "White"
+
+#: simple-story-slider.php:326
+msgid "Noir"
+msgstr "Black"
+
+#: simple-story-slider.php:331
+msgid "Couleur de background"
+msgstr "Background color"
+
+#: simple-story-slider.php:440
+msgid ""
+"Cette section s'affiche uniquement lorsque le champ \"image de fond\" est "
+"rempli."
+msgstr ""
+"This section displays only when the \"background image\" field is filled."
+
+#: simple-story-slider.php:443
+msgid "Image de fond (intro)"
+msgstr "Background image (intro)"
+
+#: simple-story-slider.php:446
+msgid "Choisir votre image"
+msgstr "Choose your image"
+
+#: simple-story-slider.php:453 simple-story-slider.php:599
+msgid "Supprimer"
+msgstr "Remove"
+
+#: simple-story-slider.php:453 simple-story-slider.php:599
+msgid "Supprimer l'image"
+msgstr "Remove image"
+
+#: simple-story-slider.php:477
+msgid "Couleur d'arrière-plan du titre"
+msgstr "Background color (title)"
+
+#: simple-story-slider.php:480
+msgid "Pas de background"
+msgstr "No background"
+
+#: simple-story-slider.php:481
+msgid "Gris"
+msgstr "Grey"
+
+#: simple-story-slider.php:482
+msgid "Couleur du thème (intro)"
+msgstr "Theme color (intro)"
+
+#: simple-story-slider.php:519
+msgid ""
+"Cette section s'affiche en cliquant sur l'icône hamburger situé à droite de "
+"l'écran (en haut ou en bas, selon votre réglage)."
+msgstr ""
+"This section is displayed by clicking on the hamburger icon  at the right of "
+"the screen (top or bottom, depending on your settings)."
+
+#: simple-story-slider.php:524
+msgid "Auteur(s)"
+msgstr "Author(s)"
+
+#: simple-story-slider.php:529
+msgid "Sous-titre"
+msgstr "Subtitle"
+
+#: simple-story-slider.php:533
+msgid "Afficher la date de publication"
+msgstr "Show the date of publication"
+
+#: simple-story-slider.php:540
+msgid "Code iframe (copier-coller)"
+msgstr "Code iframe (copy - paste)"
+
+#: simple-story-slider.php:543
+msgid ""
+"Vous pouvez modifier la largeur et la hauteur de l'iframe selon vos besoins, "
+"une largeur de 100% permet d'être responsive."
+msgstr ""
+"You can change the width and height of the iframe depending on your needs, a "
+"width of 100% keeps you responsive."
+
+#: simple-story-slider.php:569
+msgid "Racontez votre histoire"
+msgstr "Tell your story"
+
+#: simple-story-slider.php:592
+msgid "Supprimer le slide"
+msgstr "Remove slide"
+
+#: simple-story-slider.php:592 simple-story-slider.php:627
+msgid "Ajouter une image"
+msgstr "Add Image"
+
+#: simple-story-slider.php:592 simple-story-slider.php:625
+msgid "Titre"
+msgstr "Title: "
+
+#: simple-story-slider.php:592 simple-story-slider.php:626
+msgid "Texte"
+msgstr "Text"
+
+#: simple-story-slider.php:592 simple-story-slider.php:627
+msgid "Image"
+msgstr "Image"
+
+#: simple-story-slider.php:592 simple-story-slider.php:628
+msgid "OU code embed/iframe..."
+msgstr "OR embed code / iframe ..."
+
+#: simple-story-slider.php:614
+msgid "Ajouter un slide"
+msgstr "Add new slide"
+
+#: simple-story-slider.php:728
+msgid "CSS personnalisé (utilisateurs avancés)"
+msgstr "Custom CSS (advanced users)"
+
+#: simple-story-slider.php:763
+msgid "Activité des Story Slider"
+msgstr "Story Slider activity"
+
+#: sstory_duplicate.php:46
+msgid "Dupliquer le template"
+msgstr "Duplicate"
+
+#: sstory_options.php:10
+msgid "Vos droits ne sont pas suffisants pour accéder à cette page."
+msgstr "You don't have sufficient permissions to access this page."
+
+#: sstory_options.php:16
+msgid "Simple Story Slider - options"
+msgstr "Single Story Slider - options"
+
+#: sstory_options.php:19
+msgid "Options enregistrées"
+msgstr "Settings saved"
+
+#: sstory_options.php:25
+msgid "Options générales"
+msgstr "General settings"
+
+#: sstory_options.php:29
+msgid "Typographie"
+msgstr "Typography"
+
+#: sstory_options.php:33 sstory_options.php:69 sstory_options.php:78
+msgid "Démo"
+msgstr "Demo"
+
+#: sstory_options.php:50
+msgid ""
+"5 familles typographiques standards sont disponibles pour la mise en forme "
+"du texte, et 5 Google Fonts pour customiser les titres de chaque slider."
+msgstr ""
+"5 standard typographic families are available for formatting text, and "
+"Google Fonts 5 to customize the titles of each slider."
+
+#: sstory_options.php:63
+msgid "Accueil"
+msgstr "Home"
+
+#: sstory_options.php:99
+msgid "E-mail"
+msgstr "E-mail"
+
+#: sstory_options.php:109
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sstory_options.php:118
+msgid "Facebook"
+msgstr "Facebook"
+
+#: sstory_options.php:127
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: sstory_options.php:167 sstory_options.php:170 sstory_options.php:171
+#: sstory_options.php:172
+msgid " "
+msgstr ""
+
+#: sstory_options.php:168
+msgid "Ajouter votre identifiant Twitter (@monNom)"
+msgstr "Add your Twitter ID (@myName)"
+
+#: sstory_options.php:169
+msgid "Boutons de partage"
+msgstr "Social sharing buttons"
+
+#: sstory_options.php:173
+msgid "Afficher le lien vers le storyslider suivant/précédent"
+msgstr "Display next/previous storyslider"
+
+#: sstory_options.php:174
+msgid ""
+"Afficher les métadonnées de partage (réseaux sociaux...), attention : risque "
+"de doublon si cela est déjà prévu dans votre architecture (thème ou plugins)"
+msgstr ""
+"Display metadata (for sharing on social networks f.i.) Don't check this box "
+"if you have already metadata (via your theme or a specific plugin)"
+
+#: sstory_options.php:175
+msgid "Ajouter votre code Google Analytics (<script>...</script>)"
+msgstr "Add your Google Analytics code ( <script>...</script> )"
+
+#: sstory_options.php:176
+msgid "Lier à WP et aux plugins (peut causer des problèmes de compatibilité)"
+msgstr ""
+"Link to your WP install and to plugins (it may cause compatibility issues)"
+
+#: sstory_widget.php:34
+msgid "Titre :"
+msgstr "Title:"
+
+#: sstory_widget.php:38
+msgid "Nbre de sliders à afficher :"
+msgstr "Amount of sliders to display:"
+
+#: template/networks.php:2
+msgid "Partager par e-mail"
+msgstr "Share this article by e-mail"
+
+#: template/networks.php:2
+msgid "Un ami souhaite partager cet article avec vous :"
+msgstr "A friend wants to share this article with you:"
+
+#: template/networks.php:2
+msgid "Découvrez :"
+msgstr "Discover:"
+
+#: template/networks.php:5
+msgid "Partager cet article sur Twitter"
+msgstr "Share on Twitter"
+
+#: template/networks.php:8
+msgid "Partager sur Facebook"
+msgstr "Share on Facebook"
+
+#: template/networks.php:8
+msgid "Partager cet article sur Facebook"
+msgstr "Share on Facebook"
+
+#: template/networks.php:11
+msgid "Partager sur LinkedIn"
+msgstr "Share on LinkedIn"
+
+#: template/networks.php:14
+msgid "Partager sur Google+"
+msgstr "Share on Google+"
+
+#: template/sstory.php:506
+msgid "j-m-Y"
+msgstr "F j, Y"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Story Slider"
+msgstr "Simple Story Slider"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ohmybox.info"
+msgstr "http://www.ohmybox.info"
+
+#. Description of the plugin/theme
+msgid ""
+"Réaliser des sliders dynamiques, le plugin facile pour des histoires qui "
+"slident."
+msgstr "Perform easily dynamic story sliders."
+
+#. Author of the plugin/theme
+msgid "Laurence/OhMyBox.info"
+msgstr "Laurence/OhMyBox.info"
+
+#~ msgid "Gauhe"
+#~ msgstr "Left"
+
+#~ msgid "Après le texte"
+#~ msgstr "After the text"
+
+#~ msgid "Avant le texte"
+#~ msgstr "Before the text"
+
+#, fuzzy
+#~| msgid "Couleur de fond"
+#~ msgid "Couleur de fond de la pop-up"
+#~ msgstr "Background color"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Afficher le lien vers le longform suivant/précédent"
+#~ msgstr "See the link to the next longform / previous"
+
+#~ msgid ""
+#~ "You can change the size values to fit your canvas, use 100% width to keep "
+#~ "it responsive."
+#~ msgstr ""
+#~ "Vous pouvez modifier la largeur et la hauteur de l'iframe selon vos "
+#~ "besoins, une largeur de 100% permet d'être responsive."
